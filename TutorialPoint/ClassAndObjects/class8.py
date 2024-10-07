@@ -8,5 +8,7 @@ class Car:
 
 
 # Creating an object of the car class
-my_car = Car('Toyota', 'White')
-my_car.display_info()
+my_car1 = Car('Toyota', 'White')
+my_car2 = Car('Ford', 'Red')
+my_car1.display_info()
+my_car2.display_info()
