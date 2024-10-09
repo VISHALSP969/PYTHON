@@ -13,4 +13,4 @@ thread = threading.Thread(target=print_numbers)
 # start the thread
 thread.start()
 
-print('Main thread waits until the worker thread is done')
+print('Main thread continues to run in parallel')
