@@ -1,0 +1,7 @@
+Learn Python
+Datatypes
+Operators
+list,tuple,set,dictionary
+flow control statements
+classes
+File operations

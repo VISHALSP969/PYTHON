@@ -1,0 +1,2 @@
+This is a sample text file
+This sample file used for learning replace operation in python
