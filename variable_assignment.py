@@ -1,0 +1,11 @@
+number=100
+miles=1000.0
+print(number,miles)
+name="Python"
+print(name)
+century=100
+print(century)
+century="Hundred"
+print(century)
+a=b=c=1
+print(a,b,c)
