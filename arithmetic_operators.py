@@ -1,0 +1,16 @@
+a=10
+b=35
+print(a+b)
+print(b-a)
+a=4
+b=2
+print(a*b)
+print(a**b)
+a=45
+b=10
+print(a/b)
+print(a//b)
+a=2025
+b=10
+print(a%b)
+print(a//b)
