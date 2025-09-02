@@ -1,0 +1,5 @@
+numberOfDays=int(input("Enter number of days : "))
+numOfYears=int(numberOfDays/365)
+numberOfWeeks=int(numberOfDays%365/7)
+remainingDays=int(numberOfDays%365%7)
+print(f"Years={numOfYears} | Weeks={numberOfWeeks} | Days={remainingDays}")
